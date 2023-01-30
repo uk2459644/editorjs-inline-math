@@ -1,0 +1,48 @@
+
+.cdx-inline-math-primary {
+    display: inline;
+    color: #2b6cb0;
+}
+
+.cdx-inline-math-info {
+    display: inline;
+    color: #ecb939;
+}
+
+.cdx-inline-math-secondary {
+    display: inline;
+    color: #010057;
+}
+.cdx-inline-math-warning {
+  display: inline;
+  color: #800000
+}
+
+.cdx-inline-math-success {
+    display: inline;
+    color:#008080
+}
+
+.cdx-inline-math-choco {
+    display: inline;
+    color: #5c3c3a
+}
+
+.cdx-inline-math-pink {
+    display: inline;
+    color:#db0961
+}
+.cdx-inline-math-danger {
+    display: inline;
+    color: #c53030;
+}
+
+.cdx-inline-math-light {
+    display: inline;
+    color: #372e29;
+  }
+  
+  .cdx-inline-math-dark {
+    display: inline;
+    color: #d3d3d3;
+  }
